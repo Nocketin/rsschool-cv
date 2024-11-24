@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Nocketin.github.io/rsschool-cv
+https://Nocketin.github.io/rsschool-cv/
