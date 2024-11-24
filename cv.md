@@ -10,12 +10,12 @@ I'm a student from Belarus, have a little experience in different programming la
 My goal is to find a field of work that interests me, to make every effort to learn as much as possible and become a true programmer.
 
 ## Skills: 
-HTML, CSS \
-JavaScript Basics \
-Git, GitHub \
-C#, C++ \
-Node.js Basics \
-SQLite, PostgreSQL 
+* HTML, CSS 
+* JavaScript Basics 
+* Git, GitHub 
+* C#, C++ 
+* Node.js Basics 
+* SQLite, PostgreSQL 
 
 ## Code Example: 
 ```
@@ -47,3 +47,16 @@ public class MainClass
     } 
 }
 ```
+## Work Experience
+* Various small C++, C# and SQL projects in university 
+* Worked on project in team with C# 
+* Some experience with Unity 
+
+## Education
+* Still studying at the university
+* Self-education
+
+## Languages
+* Russian (Native)
+* English (Intermediate)
+
